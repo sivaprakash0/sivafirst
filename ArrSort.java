@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	int no[]=new int[sz];
 	int no1[]=new int[sz];
 	int a[]=new int[sz];
-	String b,c="";//[]=new String[sz];
+	String b,c="";
 	int k=0;
 	for(int i=0;i<sz;i++){
 		no[i]=in.nextInt();
